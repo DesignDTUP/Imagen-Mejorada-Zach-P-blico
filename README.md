@@ -1,6 +1,6 @@
 # Mejor Imagen Público Zach
 
-179 imágenes publicadas de 267 previstas, organizadas por producto y presentación. Generación en curso.
+196 imágenes publicadas de 267 previstas, organizadas por producto y presentación. Generación en curso.
 
 Cada presentación tendrá una principal ecommerce con fondo blanco y dos estilos creativos distintos.
 
