@@ -1,0 +1,16 @@
+# Prompts — 15_BIOTECH X\4L\Kiwi
+
+Herramienta: Crear imagen integrada (image_gen).
+Estado: imágenes generadas; revisión final de fidelidad de etiqueta pendiente.
+
+## 01_Ecommerce.png — /ecommerce
+
+Use case: precise-object-edit. Edit target: attached original product photograph for 15_BIOTECH X\4L\Kiwi. Create one finished square raster product image, not a collage except explicitly requested detail insets. Preserve EXACT source product: container shape, cap, handle orientation, contents color, liquid level, label geometry, printed brand, all logos and all existing lettering. Treat the original label as a fixed photographic texture; do not rewrite, translate, correct, invent or redesign any printed wording or graphics. Do not add marketing claims, dimensions, ingredients, certifications, slogans or watermarks. Keep the original product count and accessories. Photorealistic, clean premium commercial lighting and sharp natural materials. Main ecommerce product photograph on pure white #FFFFFF seamless background. Entire product centered at 85 percent canvas height with balanced margins. Soft natural contact shadow, clean silhouette and even studio lighting. Remove all background props or floating decorations from the original photograph while preserving everything printed on the packaging.
+
+## 02_Creativa.png — /papercut
+
+Use case: precise-object-edit. Edit target: attached original product photograph for 15_BIOTECH X\4L\Kiwi. Create one finished square raster product image, not a collage except explicitly requested detail insets. Preserve EXACT source product: container shape, cap, handle orientation, contents color, liquid level, label geometry, printed brand, all logos and all existing lettering. Treat the original label as a fixed photographic texture; do not rewrite, translate, correct, invent or redesign any printed wording or graphics. Do not add marketing claims, dimensions, ingredients, certifications, slogans or watermarks. Keep the original product count and accessories. Photorealistic, clean premium commercial lighting and sharp natural materials. Premium product photograph with sculptural layered paper-cut arches behind the real product, colors drawn from label palette, dimensional soft shadows, uncluttered design.
+
+## 03_Creativa.png — /productpedestal
+
+Use case: precise-object-edit. Edit target: attached original product photograph for 15_BIOTECH X\4L\Kiwi. Create one finished square raster product image, not a collage except explicitly requested detail insets. Preserve EXACT source product: container shape, cap, handle orientation, contents color, liquid level, label geometry, printed brand, all logos and all existing lettering. Treat the original label as a fixed photographic texture; do not rewrite, translate, correct, invent or redesign any printed wording or graphics. Do not add marketing claims, dimensions, ingredients, certifications, slogans or watermarks. Keep the original product count and accessories. Photorealistic, clean premium commercial lighting and sharp natural materials. Premium product photograph of a single bottle upright on a simple circular stone pedestal, airy minimalist studio, soft side light, packaging palette reflected subtly in the background.

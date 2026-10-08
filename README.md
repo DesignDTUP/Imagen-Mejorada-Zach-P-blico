@@ -1,9 +1,7 @@
 # Mejor Imagen Público Zach
 
-196 imágenes publicadas de 267 previstas, organizadas por producto y presentación. Generación en curso.
+267 imágenes generadas de 267 previstas, organizadas en 89 presentaciones.
 
-Cada presentación tendrá una principal ecommerce con fondo blanco y dos estilos creativos distintos.
+[Catálogo](CATALOGO.md) · [Estado y pendientes](estado_generacion.json) · [Observaciones de las referencias](OBSERVACIONES.md)
 
-Las etiquetas generadas requieren revisión de fidelidad antes de uso comercial.
-
-[Catálogo de imágenes publicadas](CATALOGO.md)
+Una principal ecommerce de fondo blanco y dos estilos creativos distintos por presentación. Herramienta: Crear imagen integrada. Los prompts se conservan en cada carpeta. Las etiquetas pequeñas requieren revisión antes de uso comercial.

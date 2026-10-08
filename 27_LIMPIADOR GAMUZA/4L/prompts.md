@@ -1,0 +1,16 @@
+# Prompts — 27_LIMPIADOR GAMUZA\4L
+
+Herramienta: Crear imagen integrada (image_gen).
+Estado: imágenes generadas; revisión final de fidelidad de etiqueta pendiente.
+
+## 01_Ecommerce.png — /ecommerce
+
+Use case: precise-object-edit. Edit target: attached original product photograph for 27_LIMPIADOR GAMUZA\4L. Create one finished square raster product image, not a collage except explicitly requested detail insets. Preserve EXACT source product: container shape, cap, handle orientation, contents color, liquid level, label geometry, printed brand, all logos and all existing lettering. Treat the original label as a fixed photographic texture; do not rewrite, translate, correct, invent or redesign any printed wording or graphics. Do not add marketing claims, dimensions, ingredients, certifications, slogans or watermarks. Keep the original product count and accessories. Photorealistic, clean premium commercial lighting and sharp natural materials. Main ecommerce product photograph on pure white #FFFFFF seamless background. Entire product centered at 85 percent canvas height with balanced margins. Soft natural contact shadow, clean silhouette and even studio lighting. Remove all background props or floating decorations from the original photograph while preserving everything printed on the packaging.
+
+## 02_Creativa.png — /levitation
+
+Use case: precise-object-edit. Edit target: attached original product photograph for 27_LIMPIADOR GAMUZA\4L. Create one finished square raster product image, not a collage except explicitly requested detail insets. Preserve EXACT source product: container shape, cap, handle orientation, contents color, liquid level, label geometry, printed brand, all logos and all existing lettering. Treat the original label as a fixed photographic texture; do not rewrite, translate, correct, invent or redesign any printed wording or graphics. Do not add marketing claims, dimensions, ingredients, certifications, slogans or watermarks. Keep the original product count and accessories. Photorealistic, clean premium commercial lighting and sharp natural materials. Premium conceptual advertising photograph: one exact product gently levitating upright a few centimeters above a matte surface, convincing soft shadow underneath, uncluttered tonal background from label palette, physical product unchanged.
+
+## 03_Creativa.png — /relight
+
+Use case: precise-object-edit. Edit target: attached original product photograph for 27_LIMPIADOR GAMUZA\4L. Create one finished square raster product image, not a collage except explicitly requested detail insets. Preserve EXACT source product: container shape, cap, handle orientation, contents color, liquid level, label geometry, printed brand, all logos and all existing lettering. Treat the original label as a fixed photographic texture; do not rewrite, translate, correct, invent or redesign any printed wording or graphics. Do not add marketing claims, dimensions, ingredients, certifications, slogans or watermarks. Keep the original product count and accessories. Photorealistic, clean premium commercial lighting and sharp natural materials. Studio photograph with refined soft cross-lighting, crisp realistic packaging texture, clear label, neutral slate background and controlled highlights, exact original product and colors.

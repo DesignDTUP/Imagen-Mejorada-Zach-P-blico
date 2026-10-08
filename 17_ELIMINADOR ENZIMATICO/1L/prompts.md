@@ -1,0 +1,16 @@
+# Prompts — 17_ELIMINADOR ENZIMATICO\1L
+
+Herramienta: Crear imagen integrada (image_gen).
+Estado: imágenes generadas; revisión final de fidelidad de etiqueta pendiente.
+
+## 01_Ecommerce.png — /ecommerce
+
+Use case: precise-object-edit. Edit target: attached original product photograph for 17_ELIMINADOR ENZIMATICO\1L. Create one finished square raster product image, not a collage except explicitly requested detail insets. Preserve EXACT source product: container shape, cap, handle orientation, contents color, liquid level, label geometry, printed brand, all logos and all existing lettering. Treat the original label as a fixed photographic texture; do not rewrite, translate, correct, invent or redesign any printed wording or graphics. Do not add marketing claims, dimensions, ingredients, certifications, slogans or watermarks. Keep the original product count and accessories. Photorealistic, clean premium commercial lighting and sharp natural materials. Main ecommerce product photograph on pure white #FFFFFF seamless background. Entire product centered at 85 percent canvas height with balanced margins. Soft natural contact shadow, clean silhouette and even studio lighting. Remove all background props or floating decorations from the original photograph while preserving everything printed on the packaging.
+
+## 02_Creativa.png — /glassdisplay
+
+Use case: precise-object-edit. Edit target: attached original product photograph for 17_ELIMINADOR ENZIMATICO\1L. Create one finished square raster product image, not a collage except explicitly requested detail insets. Preserve EXACT source product: container shape, cap, handle orientation, contents color, liquid level, label geometry, printed brand, all logos and all existing lettering. Treat the original label as a fixed photographic texture; do not rewrite, translate, correct, invent or redesign any printed wording or graphics. Do not add marketing claims, dimensions, ingredients, certifications, slogans or watermarks. Keep the original product count and accessories. Photorealistic, clean premium commercial lighting and sharp natural materials. Single product in an elegant transparent glass display case on a dark stone base, subtle edge lighting matching packaging colors, premium studio photograph. Clear front unobstructed label.
+
+## 03_Creativa.png — /portal
+
+Use case: precise-object-edit. Edit target: attached original product photograph for 17_ELIMINADOR ENZIMATICO\1L. Create one finished square raster product image, not a collage except explicitly requested detail insets. Preserve EXACT source product: container shape, cap, handle orientation, contents color, liquid level, label geometry, printed brand, all logos and all existing lettering. Treat the original label as a fixed photographic texture; do not rewrite, translate, correct, invent or redesign any printed wording or graphics. Do not add marketing claims, dimensions, ingredients, certifications, slogans or watermarks. Keep the original product count and accessories. Photorealistic, clean premium commercial lighting and sharp natural materials. Conceptual premium product photograph: single original product upright before an architectural luminous circular portal, soft colored glow echoing packaging, clean studio surface, label evenly lit and legible.
